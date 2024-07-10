@@ -1,2 +1,2 @@
 # google-clone
-practica haciendo un clon de google
+practicas de HTML y CSS, haciendo un clon de google.

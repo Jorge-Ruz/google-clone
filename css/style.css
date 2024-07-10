@@ -169,3 +169,7 @@ footer ul li a{
   margin: 1rem;
   color: #5f6368;
 }
+
+footer ul li a:hover {
+  border-bottom: 1px solid #5f6368;
+}
